@@ -11,4 +11,5 @@
 
 ## 已转换翻译源
 
- - source001 [http://cointelegraph.com/rss](http://cointelegraph.com/rss) -> [uweb_alpha.xml](rss/uweb_alpha.xml)
+ - source001 [http://cointelegraph.com/rss](http://cointelegraph.com/rss) -> [uweb_alpha_01.xml](rss/uweb_alpha_01.xml)
+ - source002 [https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml](https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml) -> [uweb_alpha_02.xml](rss/uweb_alpha_02.xml)
